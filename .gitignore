@@ -1,0 +1,9 @@
+# Google API client secrets and authentication tokens
+Secrets/
+__pycache__/
+downloaded_files/
+*.png
+downloaded_files/
+pythonProject/
+.idea/
+*.pdf
